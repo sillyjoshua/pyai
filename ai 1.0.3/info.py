@@ -1,0 +1,1 @@
+print (hello this developed by Joshuakingstech and this was the CEO's idea - noah)
